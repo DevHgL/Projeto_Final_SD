@@ -1,0 +1,7 @@
+creditcard.csv
+data/
+models/
+reports/
+*.pyc
+__pycache__/
+.venv/
